@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spoopy_Sonic.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snoopy sonic idle0000" x="0" y="0" width="1109" height="1155" frameX="-48" frameY="-15" frameWidth="1201" frameHeight="1211"/>
+	<SubTexture name="snoopy sonic idle0001" x="0" y="0" width="1109" height="1155" frameX="-48" frameY="-15" frameWidth="1201" frameHeight="1211"/>
+	<SubTexture name="snoopy sonic idle0002" x="1109" y="0" width="1201" height="1211"/>
+	<SubTexture name="snoopy sonic idle0003" x="1109" y="0" width="1201" height="1211"/>
+	<SubTexture name="snoopy sonic idle0004" x="2310" y="0" width="1122" height="1168" frameX="-52" frameY="-9" frameWidth="1201" frameHeight="1211"/>
+	<SubTexture name="snoopy sonic idle0005" x="2310" y="0" width="1122" height="1168" frameX="-52" frameY="-9" frameWidth="1201" frameHeight="1211"/>
+	<SubTexture name="snoopy sonic idle0006" x="3432" y="0" width="1113" height="1157" frameX="-52" frameY="-16" frameWidth="1201" frameHeight="1211"/>
+	<SubTexture name="snoopy sonic idle0007" x="3432" y="0" width="1113" height="1157" frameX="-52" frameY="-16" frameWidth="1201" frameHeight="1211"/>
+	<SubTexture name="snoopy sonic idle0008" x="0" y="0" width="1109" height="1155" frameX="-48" frameY="-15" frameWidth="1201" frameHeight="1211"/>
+	<SubTexture name="snoopy sonic idle0009" x="0" y="0" width="1109" height="1155" frameX="-48" frameY="-15" frameWidth="1201" frameHeight="1211"/>
+	<SubTexture name="spoopy sonic down0000" x="4545" y="0" width="1427" height="1202" frameX="0" frameY="-27" frameWidth="1427" frameHeight="1229"/>
+	<SubTexture name="spoopy sonic down0001" x="4545" y="0" width="1427" height="1202" frameX="0" frameY="-27" frameWidth="1427" frameHeight="1229"/>
+	<SubTexture name="spoopy sonic down0002" x="5972" y="0" width="1334" height="1203" frameX="-28" frameY="0" frameWidth="1427" frameHeight="1229"/>
+	<SubTexture name="spoopy sonic down0003" x="5972" y="0" width="1334" height="1203" frameX="-28" frameY="0" frameWidth="1427" frameHeight="1229"/>
+	<SubTexture name="spoopy sonic left0000" x="0" y="1211" width="1359" height="1325" frameX="-13" frameY="-18" frameWidth="1372" frameHeight="1343"/>
+	<SubTexture name="spoopy sonic left0001" x="0" y="1211" width="1359" height="1325" frameX="-13" frameY="-18" frameWidth="1372" frameHeight="1343"/>
+	<SubTexture name="spoopy sonic left0002" x="1359" y="1211" width="1315" height="1336" frameX="0" frameY="0" frameWidth="1372" frameHeight="1343"/>
+	<SubTexture name="spoopy sonic left0003" x="1359" y="1211" width="1315" height="1336" frameX="0" frameY="0" frameWidth="1372" frameHeight="1343"/>
+	<SubTexture name="spoopy sonic right0000" x="2674" y="1211" width="1180" height="1173" frameX="-30" frameY="0" frameWidth="1210" frameHeight="1188"/>
+	<SubTexture name="spoopy sonic right0001" x="2674" y="1211" width="1180" height="1173" frameX="-30" frameY="0" frameWidth="1210" frameHeight="1188"/>
+	<SubTexture name="spoopy sonic right0002" x="3854" y="1211" width="1193" height="1172" frameX="0" frameY="-16" frameWidth="1210" frameHeight="1188"/>
+	<SubTexture name="spoopy sonic right0003" x="3854" y="1211" width="1193" height="1172" frameX="0" frameY="-16" frameWidth="1210" frameHeight="1188"/>
+	<SubTexture name="spoopy sonic up0000" x="5047" y="1211" width="1408" height="1324" frameX="-7" frameY="0" frameWidth="1415" frameHeight="1370"/>
+	<SubTexture name="spoopy sonic up0001" x="5047" y="1211" width="1408" height="1324" frameX="-7" frameY="0" frameWidth="1415" frameHeight="1370"/>
+	<SubTexture name="spoopy sonic up0002" x="6455" y="1211" width="1399" height="1343" frameX="0" frameY="-27" frameWidth="1415" frameHeight="1370"/>
+	<SubTexture name="spoopy sonic up0003" x="6455" y="1211" width="1399" height="1343" frameX="0" frameY="-27" frameWidth="1415" frameHeight="1370"/>
+</TextureAtlas>

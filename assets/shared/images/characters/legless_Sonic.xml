@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Legless_Sonic.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="10" y="10" width="986" height="923" pivotX="0" pivotY="0"/>
+	<SubTexture name="Up0000" x="1006" y="10" width="968" height="1260" pivotX="0" pivotY="0"/>
+	<SubTexture name="Up0001" x="1984" y="10" width="945" height="1231" pivotX="0" pivotY="0"/>
+	<SubTexture name="Left0000" x="2939" y="10" width="908" height="999" pivotX="0" pivotY="0"/>
+	<SubTexture name="Left0001" x="10" y="1280" width="886" height="976" pivotX="0" pivotY="0"/>
+	<SubTexture name="Idle0001" x="906" y="1280" width="976" height="1000" pivotX="0" pivotY="0"/>
+	<SubTexture name="Idle0002" x="1892" y="1280" width="1071" height="923" pivotX="0" pivotY="0"/>
+	<SubTexture name="Idle0003" x="2973" y="1280" width="999" height="915" pivotX="0" pivotY="0"/>
+	<SubTexture name="Idle0004" x="906" y="1280" width="976" height="1000" pivotX="0" pivotY="0"/>
+	<SubTexture name="Right0000" x="10" y="2290" width="1176" height="1009" pivotX="0" pivotY="0"/>
+	<SubTexture name="Right0001" x="1196" y="2290" width="1203" height="962" pivotX="0" pivotY="0"/>
+	<SubTexture name="Down0000" x="2409" y="2290" width="1125" height="738" pivotX="0" pivotY="0"/>
+	<SubTexture name="Down0001" x="10" y="3309" width="1128" height="736" pivotX="0" pivotY="0"/>
+</TextureAtlas>
